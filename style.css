@@ -1,0 +1,143 @@
+* {
+margin: 0px;
+padding: 0px;
+
+}
+
+body {
+background-color: hsl(217, 54%, 11%);
+
+}
+
+.main {
+ position: relative;
+
+}
+
+.l-1 {
+ position: absolute;
+ background: hsl(216, 50%, 16%); 
+ height: 557px;
+ left: 37%;
+ border-radius: 10px;
+ width: 332px; 
+ margin-top: 172px;
+ box-shadow: 10px 10px 5px pink;
+
+}
+
+.im {
+ position: relative;
+ width: 286px;
+ height: 300px;
+ left: 7%;
+ border-radius: 10px;
+ top: 23px;
+}
+
+.im:hover {
+    position: sticky;
+    background-color: whitesmoke;
+    border: 1px whitesmoke solid;
+    margin-left: 6px;
+    box-shadow: 10px 8px 5px silver;
+    cursor: pointer;
+} 
+
+
+
+
+.sub {
+ position: relative;
+ font-size: 16px;
+ top: 42px;
+ color: white;
+ left: 27px;
+}
+
+.sub:hover{
+ cursor: pointer;
+ color: cyan;
+}
+
+.des {
+   position: relative;
+   color: hsl(215, 51%, 70%);
+   top: 63px;
+   left: 28px;
+   font-size: 15px; 
+ 
+ 
+}
+
+.con {
+
+position: relative;
+top: 82px;
+left: 26px;
+font-size: 14px;
+color: hsl(178, 100%, 50%);
+
+
+}
+
+.i-mg {
+  position: relative;
+right: 0;
+top: 3px;
+
+}
+
+.con-2 {
+ position: relative;
+top: 61px;
+font-size: 14px;
+left: 207px;
+ color: hsl(215, 51%, 70%); 
+
+}
+
+.i-mg2 {
+ position: relative;
+top: 4px;
+
+
+}
+
+.line {
+ position: relative;
+top: 82px;
+width: 290px;
+left: 24px;
+color: red;
+}
+
+.con-3 {
+ position: relative;
+ top: 91px;
+ left: 33px;
+
+}
+
+#c {
+ color: white;
+ background-color: hsl(216, 50%, 16%);
+
+}
+
+#c:hover{
+cursor: pointer;
+color: cyan;
+}
+
+.i-mg3 {
+ width: 26px;
+ height: 26px;
+ border: 1px white solid;
+ border-radius: 50%; 
+ position: relative;
+top: 8px;
+right: 7px;
+}
+
+
